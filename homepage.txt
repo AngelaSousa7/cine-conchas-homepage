@@ -1,1 +1,16 @@
-lets do this
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Invisble Notebook</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <div>
+      <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+      </ul>
+    </div>
+  </body>
+</html>
